@@ -1,6 +1,8 @@
 # Hi there, I'm Matt 👋
 
-I am a bootcamp grad from Lighthouse Labs, and am currently a React/React Native Developer. I have a passion for great front-end development and improving user experience. Feel free to reach out to me:
+I am currently a React/React Native Developer. I have a passion for great front-end development and improving user experience. 
+I am constantly looking for opportunities to work with great teams and developers, and create functional and interesting projects. I am currently honing my back end skills with the likes
+of several Python libraries and new databases. Feel free to reach out to me!
 
 ## Connect with me:
 
@@ -19,6 +21,11 @@ I am a bootcamp grad from Lighthouse Labs, and am currently a React/React Native
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
 ![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
 
 <!--
 **Matt-Chisholm/Matt-Chisholm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
