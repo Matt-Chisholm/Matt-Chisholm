@@ -1,6 +1,6 @@
 # Hi there, I'm Matt 👋
 
-I am a Full Stack Web and Mobile Developer. I have a passion for great front-end development and improving user experience. 
+I am a Full Stack Web and Mobile Developer, with a specialty in React & React Native app development.
 I am constantly looking for opportunities to work with great teams and developers, and create functional and interesting projects. I am currently honing my back end skills with the likes
 of several Python libraries and new databases. Feel free to reach out to me!
 
