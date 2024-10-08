@@ -4,6 +4,8 @@ I am a Full Stack Web and Mobile Developer, with a specialty in React & React Na
 I am constantly looking for opportunities to work with great teams and developers, and create functional and interesting projects. I am currently honing my back end skills with the likes
 of several Python libraries and new databases. Feel free to reach out to me!
 
+Note: I work mostly on private repos.
+
 ## Connect with me:
 
 [![Personal Site](https://img.shields.io/badge/-PersonalSite-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mattchisholmdev.com)
